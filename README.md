@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elenafuengar - a spanish industrial and nuclear jr. engineer!
-- 👀 I’m interested in Matlab programs about physical and dynamic modeling, fourier optics, numerical methods and fluid mechanics
-- 🌱 I’m currently learning beam physics, fresnel difraction and azimuthal FT
+- 👀 I’m interested in programs about physical and dynamic modeling, fourier optics, numerical methods and fluid mechanics
+- 🌱 I’m currently learning about accelerator physics, impedance and wake potential computation
 - 💞️ I’m looking to help people with my programs and also learn and improve them with your suggestions!
 - 📫 How to reach me: elena.delafuenteg@gmail.com
 
